@@ -17,7 +17,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Search</h1>
+      <h1>N.A.L.P.</h1>
 
       <div className="search-container">
         <div className="search-inner">
